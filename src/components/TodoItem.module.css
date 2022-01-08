@@ -1,0 +1,8 @@
+.item {
+  margin: 10px;
+  border: 1px solid green;
+}
+
+.item > p {
+  margin: 0;
+}
